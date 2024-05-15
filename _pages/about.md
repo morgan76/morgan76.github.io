@@ -1,8 +1,7 @@
 ---
-layout: about
+layout: About
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student affiliated with the <a href='https://adasp.telecom-paris.fr/'>ADASP Group</a> at Télécom Paris under the joint supervision of Prof. <a href='https://slimessid.github.io/research/'>Slim Essid</a> and <a href='https://brianmcfee.net/'>Brian McFee</a> from New York University. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie at the intersection of machine learning, signal processing and audio data analysis with an emphasis on music information retrieval (MIR).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2019, I obtained a master’s degree in applied mathematics (diplôme d’ingénieur) from Institut National des Sciences Appliquées de Rouen, France. I then completed the master’s program in Sound & Music Computing within the Music Technology Group <a href='https://www.upf.edu/web/mtg/'>(MTG)</a> at Pompeu Fabra university in Barcelona, Spain. Since 2021, I am part of the Audio Data Analysis and Signal Processing research group at Télécom Paris where I’m pursuing a doctoral degree in the field of Music Structure Analysis. 
