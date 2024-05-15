@@ -11,10 +11,6 @@ profile:
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
 ---
 
 I am a PhD student affiliated with the <a href='https://adasp.telecom-paris.fr/'>ADASP Group</a> at Télécom Paris under the joint supervision of Prof. <a href='https://slimessid.github.io/research/'>Slim Essid</a> and <a href='https://brianmcfee.net/'>Brian McFee</a> from New York University. 
