@@ -7,10 +7,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 ---
 
 I am a PhD student affiliated with the <a href='https://adasp.telecom-paris.fr/'>ADASP Group</a> at Télécom Paris under the joint supervision of Prof. <a href='https://slimessid.github.io/research/'>Slim Essid</a> and <a href='https://brianmcfee.net/'>Brian McFee</a> from New York University. 
