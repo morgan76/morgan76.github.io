@@ -9,9 +9,9 @@ profile:
   image_circular: false # crops the image to make it circular
 ---
 
-Hello! I'm a recent PhD graduate from the [ADASP Group](https://adasp.telecom-paris.fr/) at Télécom Paris. I had the privilege of being jointly supervised by [Prof. Slim Essid](https://slimessid.github.io/research/) and [Brian McFee](https://brianmcfee.net/) from New York University.
+Hello! I'm a recent PhD graduate from the [ADASP Group](https://adasp.telecom-paris.fr/) at Télécom Paris. I was jointly supervised by [Prof. Slim Essid](https://slimessid.github.io/research/) and [Brian McFee](https://brianmcfee.net/) from New York University.
 
-My research is driven by a passion for the intersection of machine learning, signal processing, and audio data analysis, with a particular focus on Music Information Retrieval (MIR).
+My research lies at the intersection of machine learning, signal processing, and audio data analysis, with a particular focus on Music Information Retrieval (MIR).
 
 ### Academic Journey
 
