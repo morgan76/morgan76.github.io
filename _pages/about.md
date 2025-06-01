@@ -15,8 +15,8 @@ My research lies at the intersection of machine learning, signal processing, and
 
 ### Academic Journey
 
-- **2019**: I earned a master’s degree in Applied Mathematics from the Institut National des Sciences Appliquées de Rouen, France.
-- **2020**: I completed the master’s program in Sound & Music Computing at the [Music Technology Group (MTG)](https://www.upf.edu/web/mtg/) at Pompeu Fabra University in Barcelona, Spain.
+- **2014-2019**: I earned a master’s degree in Applied Mathematics from the Institut National des Sciences Appliquées de Rouen, France.
+- **2020-2021**: I completed the master’s program in Sound & Music Computing at the [Music Technology Group (MTG)](https://www.upf.edu/web/mtg/) at Pompeu Fabra University in Barcelona, Spain.
 - **2021-2024**: I was a doctoral researcher at the Audio Data Analysis and Signal Processing Group at Télécom Paris (Institut Polytechnique de Paris). My doctoral research focused on Music Structure Analysis. You can access my thesis manuscript [here](https://theses.hal.science/tel-04980794/).
 
 ### Research Focus
@@ -31,6 +31,6 @@ Estimating song structures is a crucial task in Music Information Retrieval, yet
 
 ### What's Next?
 
-This summer, I am excited to be undertaking a research internship at Spotify, under the supervision of Dr. Rachel Bittner.
+This summer, I am excited to be doing a research internship at Spotify, under the supervision of Dr. Rachel Bittner.
 
 I am currently seeking full-time opportunities in both academic and industrial sectors. If you're interested in my work or have potential opportunities, I'd love to connect!
