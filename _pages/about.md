@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
 ---
 
-Hello! I'm a postdoctoral researcher at CNRS in Nantes, working with [Dr. Vincent Lostanlen](https://lostanlen.com/) on **Multi-Resolution Neural Networks for audio (MuReNN)**. I completed my PhD at the [ADASP Group](https://adasp.telecom-paris.fr/) at Télécom Paris, where I was jointly supervised by [Prof. Slim Essid](https://slimessid.github.io/research/) and [Brian McFee](https://brianmcfee.net/) from New York University.
+Hello! I'm a postdoctoral researcher at CNRS in Nantes, working with [Dr. Vincent Lostanlen](https://lostanlen.com/) on **Multi-Resolution Neural Networks (MuReNN)** for audio. I completed my PhD at the [ADASP Group](https://adasp.telecom-paris.fr/) at Télécom Paris, where I was jointly supervised by [Prof. Slim Essid](https://slimessid.github.io/research/) and [Brian McFee](https://brianmcfee.net/) from New York University.
 
 My research lies at the intersection of machine learning, signal processing, and audio data analysis, with a particular focus on Music Information Retrieval (MIR).
 
