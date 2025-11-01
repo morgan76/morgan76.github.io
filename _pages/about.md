@@ -19,9 +19,9 @@ My research lies at the intersection of machine learning, signal processing, and
 - **2018–2019**: I was a graduate exchange student at École Polytechnique de Montréal, Canada.  
 - **2020–2021**: I completed the master’s program in Sound & Music Computing at the [Music Technology Group (MTG)](https://www.upf.edu/web/mtg/) at Pompeu Fabra University in Barcelona, Spain.  
 - **2021–2024**: I was a doctoral researcher at the Audio Data Analysis and Signal Processing Group at Télécom Paris (Institut Polytechnique de Paris). My doctoral research focused on Music Structure Analysis. You can access my thesis manuscript [here](https://theses.hal.science/tel-04980794/).  
-- **Summer 2024**: I completed a research internship at Spotify, supervised by [Dr. Rachel Bittner](https://rachelbittner.github.io/), where I worked on **music summarization**.  
+- **Summer 2025**: I completed a research internship at Spotify, supervised by [Dr. Rachel Bittner](https://rachelbittner.github.io/), where I worked on **music summarization**.  
 
-### Research Focus
+### Doctoral Research Focus
 
 Estimating song structures is a crucial task in Music Information Retrieval, yet it presents challenges due to the ambiguity of structure annotations and the scarcity of labeled data. My PhD research addressed these issues through three main approaches:
 
@@ -31,8 +31,12 @@ Estimating song structures is a crucial task in Music Information Retrieval, yet
 
 3. **Multimodal Learning with Language Models** — I explored the connection between text and audio, utilizing language models to tackle ambiguities in music structure annotations.
 
-### What's Next?
+### Research Interests
 
-I am currently a postdoctoral researcher at CNRS, exploring how multi-resolution neural networks can advance the analysis and modeling of audio signals in the waveform domain.
+**Signal-informed architectures for audio**: I am interested in exploring how methods from signal processing can guide the design of deep learning models that are more adapted to the unique characteristics of audio. This line of work aims to build architectures that are both more efficient and more interpretable.
 
-If you're interested in my work or potential collaborations, feel free to reach out!
+**Self-supervised learning for sound understanding**: I plan to continue investigating how pseudo-tasks can help models learn rich audio representations without human annotations. This approach holds promise for scaling up learning in domains where labeled data is scarce or ambiguous.
+
+**Structure-aware generative modeling of music**: Building on my PhD experience, I would like to study how discriminative models of musical structure can inform generative systems. The goal is to create music generation models that better capture how local and global elements come together to form coherent musical pieces.
+
+**Ethical AI and artist protection**: A growing amount of research and financial investment is directed toward music generation technologies, often with limited consideration for the rights of artists whose work underpins these systems. I am interested in exploring more equitable approaches to AI in music.
