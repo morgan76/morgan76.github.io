@@ -33,8 +33,6 @@ Estimating song structures is a crucial task in Music Information Retrieval, yet
 
 ### Research Interests
 
-**Signal-informed architectures for audio**: I am interested in exploring how methods from signal processing can guide the design of deep learning models that are more adapted to the unique characteristics of audio. This line of work aims to build architectures that are both more efficient and more interpretable.
-
 **Self-supervised learning for sound understanding**: I plan to continue investigating how pseudo-tasks can help models learn rich audio representations without human annotations. This approach holds promise for scaling up learning in domains where labeled data is scarce or ambiguous.
 
 **Structure-aware generative modeling of music**: Building on my PhD experience, I would like to study how discriminative models of musical structure can inform generative systems. The goal is to create music generation models that better capture how local and global elements come together to form coherent musical pieces.
