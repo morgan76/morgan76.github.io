@@ -13,7 +13,7 @@ Hello! I'm a Research Scientist at [Sony](https://ai.sony/), working on machine 
 
 My research lies at the intersection of machine learning, signal processing, and audio data analysis, with a particular focus on Music Information Retrieval (MIR). I am especially interested in learning structured and meaningful representations of music audio, with applications to music understanding, retrieval, audio matching, structure analysis, and user-centered music intelligence.
 
-Before joining Sony AI, I was a postdoctoral researcher at CNRS in Nantes, working with [Dr. Vincent Lostanlen](https://lostanlen.com/) on **Multi-Resolution Neural Networks (MuReNN)** for audio. I completed my PhD at the [ADASP Group](https://adasp.telecom-paris.fr/) at Télécom Paris, where I was jointly supervised by [Prof. Slim Essid](https://slimessid.github.io/research/) and [Brian McFee](https://brianmcfee.net/) from New York University.
+Before joining Sony, I was a postdoctoral researcher at CNRS in Nantes, working with [Dr. Vincent Lostanlen](https://lostanlen.com/) on **Multi-Resolution Neural Networks (MuReNN)** for audio. I completed my PhD at the [ADASP Group](https://adasp.telecom-paris.fr/) at Télécom Paris, where I was jointly supervised by [Prof. Slim Essid](https://slimessid.github.io/research/) and [Brian McFee](https://brianmcfee.net/) from New York University.
 
 ### Research Background
 
