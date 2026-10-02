@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
 ---
 
-Hello! I'm a Research Scientist at [Sony AI](https://ai.sony/), working on machine learning for audio and music.
+Hello! I'm a Research Scientist at [Sony](https://ai.sony/), working on machine learning for audio and music.
 
 My research lies at the intersection of machine learning, signal processing, and audio data analysis, with a particular focus on Music Information Retrieval (MIR). I am especially interested in learning structured and meaningful representations of music audio, with applications to music understanding, retrieval, audio matching, structure analysis, and user-centered music intelligence.
 
@@ -24,4 +24,4 @@ Before joining Sony AI, I was a postdoctoral researcher at CNRS in Nantes, worki
 - **2021–2024**: I was a doctoral researcher at the Audio Data Analysis and Signal Processing Group at Télécom Paris, Institut Polytechnique de Paris. My doctoral research focused on Music Structure Analysis. You can access my thesis manuscript [here](https://theses.hal.science/tel-04980794/).
 - **Summer 2025**: I completed a research internship at Spotify, supervised by [Dr. Rachel Bittner](https://rachelbittner.github.io/), where I worked on **music summarization** from large-scale user-listening behavior.
 - **2024–2026**: I was a postdoctoral researcher at CNRS / Nantes Université / École Centrale Nantes, working with [Dr. Vincent Lostanlen](https://lostanlen.com/) on **Multi-Resolution Neural Networks (MuReNN)** for audio.
-- **2026–present**: I am a Research Scientist at [Sony AI](https://ai.sony/), working on machine learning for audio and music.
+- **2026–present**: I am a Research Scientist at [Sony](https://ai.sony/), working on machine learning for audio and music.
